@@ -33,3 +33,9 @@ PinkTasker dirancang untuk memudahkan dalam mengatur aktivitas harian secara pra
 1. **Clone Repositori**  
    ```bash
    git clone https://github.com/zhrfnr/UAS_MDI_RJ23A
+
+## Tampilan Aplikasi
+
+![Gambar 1](images/images_1.png)
+![Gambar 2](images/images_2.png)
+![Gambar 3](images/images_3.png)
