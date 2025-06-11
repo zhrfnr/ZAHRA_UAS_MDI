@@ -1,16 +1,35 @@
-# todo_app
+# PinkTasker
 
-A new Flutter project.
+**ZAHRA AFINUR ALIFAH (2390343123)**
 
-## Getting Started
+**PinkTasker** adalah aplikasi To-Do List bergaya modern yang membantu agar tetap produktif dan terorganisir setiap hari. Dibuat oleh **Hania Husna Handini Putri** dan **Zahra Afinur Alifah**, aplikasi ini menghadirkan antarmuka yang sederhana namun elegan, dengan tema warna pink yang lembut dan menenangkan.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Deskripsi & Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+PinkTasker memungkinkan pengguna untuk mencatat dan mengatur tugas-tugas harian mereka dengan mudah. Semua data disimpan secara online dan terhubung ke akun pengguna, sehingga dapat diakses dari mana saja, kapan saja.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Fitur Utama PinkTasker
+
+PinkTasker dirancang untuk memudahkan dalam mengatur aktivitas harian secara praktis dan efisien. Dengan antarmuka yang bersih dan dukungan sinkronisasi cloud, semua tugas akan tetap aman dan selalu tersedia.
+
+- **Login & Registrasi Fleksibel**  
+  Pengguna dapat membuat akun dan masuk melalui Email atau akun Google, dengan proses yang cepat dan aman.
+
+- **Kelola Daftar Tugas**  
+  Buat tugas baru, ubah detail yang ada, hapus tugas yang tidak diperlukan, dan tandai tugas sebagai telah selesai dengan mudah.
+
+- **Tampilan Tugas yang Tertata**  
+  Tugas yang masih harus diselesaikan dan yang sudah diselesaikan ditampilkan di tempat terpisah agar pengguna dapat fokus dengan lebih baik.
+
+- **Penyimpanan Online Otomatis**  
+  Semua data tugas disimpan secara real-time di Firebase, memungkinkan akses dari berbagai perangkat tanpa kehilangan data.
+
+---
+
+## Cara Menjalankan Aplikasi PinkTasker
+
+1. **Clone Repositori**  
+   ```bash
+   git clone https://github.com/zhrfnr/UAS_MDI_RJ23A
